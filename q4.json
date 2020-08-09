@@ -1,0 +1,10 @@
+ [
+  {grid: '48', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '47', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '46', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '45', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '44', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '43', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '42', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '41', price: 49.99, missing: false, lab_price: 0, procedure: ' '}
+]
