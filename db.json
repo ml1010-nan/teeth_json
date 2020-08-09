@@ -1,16 +1,16 @@
 {
-    q1 : [
-    {grid: '18', price: 49.99, lab_price: 100.57, missing: false, procedure:'inlay'},
-    {grid: '17', price: 49.99, lab_price: 10.56, missing: false, procedure:'onlay'},
-    {grid: '16', price: 49.99, missing: true, lab_price: 0, procedure: ' '},
-    {grid: '15', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
-    {grid: '14', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
-    {grid: '13', price: 49.99, missing: true, lab_price: 0, procedure: ' '},
-    {grid: '12', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
-    {grid: '11', price: 49.99, missing: false, lab_price: 0, procedure: ' '}
+    "q1" : [
+    {"grid": "18", "price": 49.99, "lab_price": 100.57, "missing": false, "procedure":"inlay"},
+    {"grid": "17", "price": 49.99, "lab_price": 10.56, "missing": false, "procedure":"onlay"},
+    {"grid": "16", "price": 49.99, "missing": true, "lab_price": 0, "procedure": " "},
+    {"grid": "15", "price": 49.99, "missing": false, "lab_price": 0, "procedure": " "},
+    {"grid": "14", "price": 49.99, "missing": false, "lab_price": 0, "procedure": " "},
+    {"grid": "13", "price": 49.99, "missing": true, "lab_price": 0, "procedure": " "},
+    {"grid": "12", "price": 49.99, "missing": false, "lab_price": 0, "procedure": " "},
+    {"grid": "11", "price": 49.99, "missing": false, "lab_price": 0, "procedure": " "}
   ],
 
-  q2 : [
+  "q2" : [
     {grid: '21', price: 49.99, lab_price: 50.77, missing: false, procedure:'crown'},
     {grid: '22', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
     {grid: '23', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
