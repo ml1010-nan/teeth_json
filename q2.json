@@ -1,0 +1,10 @@
+[
+  {grid: '21', price: 49.99, lab_price: 50.77, missing: false, procedure:'crown'},
+  {grid: '22', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '23', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '24', price: 49.99, missing: false, procedure:'bridge'},
+  {grid: '25', price: 49.99, missing: false, procedure:'bridge'},
+  {grid: '26', price: 49.99, missing: false, procedure:'bridge'},
+  {grid: '27', price: 49.99, missing: false, lab_price: 0, procedure: ' '},
+  {grid: '28', price: 49.99, missing: false, lab_price: 0, procedure: ' '}
+]
